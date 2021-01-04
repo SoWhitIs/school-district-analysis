@@ -62,7 +62,7 @@ Aforementioned, the basis of re-analysis was due to inaccuracies in reported nin
 	* Percentage Change (Difference in Size) of 1.17692111% or 1.2%
 *   Schools: 15 (Varied Types: Districts, Charter)
 ***
- ### District Summary, Result: _Minor Effect_
+ ### District Summary, Result: _Minor Affect_
 
 *   Given that difference between the intial and new dataset was just slighty over 1% (461 students) there was little to no change overall results to the District Summary, as seen in the images below:
 <p align="center">
@@ -88,7 +88,7 @@ Aforementioned, the basis of re-analysis was due to inaccuracies in reported nin
 
 ***
 
-### School Summary,  Result: _Greater Effect_
+### School Summary,  Result: _Greater Affect_
 
 *   Unlike the results for the District Summary,where data was seen as whole,  when we take a look at Thomas High School on a per school level, the absence of the ninth grade testing scores, were rather noticeable. We see significant jumps in _Math_, _Reading_ and _Overall_ passing percentages, respectively, seeing  about a **30%** boost as as result in calculating this new dataset, as seen in the images below. 
 
@@ -118,6 +118,6 @@ Thomas High School appears still remaining amgonst Top 5 High Performing Schools
 
 
 ## Summary
-By replacing the scoring data with NaN, all "usable" data was kept in tact, such as school name, type, student name, etc. Nonetheless, allowed for those data to still be consider in the final which lies one reason affect of this method was not greater.
+By replacing the scoring data with NaN, all "usable" data was kept in tact, such as school name, type, student name, etc. however, this method could be net false  positives as the results or effects are not as noticebale. 
 
-However, this method could have yeild false outcomes, especially when having to perform permuatations as getting the averages. . 
+Bu, it is possible could be because of the smaller sample size, ***only*** 1% of the inital total. 
