@@ -118,6 +118,8 @@ Thomas High School appears still remaining amgonst Top 5 High Performing Schools
 
 
 ## Summary
-By replacing the scoring data with NaN, all "usable" data was kept in tact, such as school name, type, student name, etc. however, this method could be net false  positives as the results or effects are not as noticebale. 
+By replacing the scoring data with NaN, all "usable" data was kept in tact, such as school name, type, student name, etc. however, this method could net false  positives as the results or effects are not as noticebale. 
 
-Bu, it is possible could be because of the smaller sample size, ***only*** 1% of the inital total. 
+But, it is possible because of the smaller sample size, ***only*** 1% of the inital total difference would be noticed on a per school breakdown. 
+
+Population size directly effects the out comes of the group as whole. 
