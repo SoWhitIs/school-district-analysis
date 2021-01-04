@@ -37,7 +37,8 @@ Upon completion of initial analysis, it was brought to attention that file: stud
   <i><b>Project Jupyter: nbnbviewer Homepage</b></i> 
  </p>
 <p align="center">
-  <img src="additional resources/nbviewer_ jupyter _.png" </p>
+  <img src="additional resources/nbviewer_ jupyter.png" </p>
+
 
 ## Results
 ### What has been impacted? 
