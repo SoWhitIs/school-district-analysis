@@ -62,7 +62,7 @@ Aforementioned, the basis of re-analysis was due to inaccuracies in reported nin
 	* Percentage Change (Difference in Size) of 1.17692111% or 1.2%
 *   Schools: 15 (Varied Types: Districts, Charter)
 ***
- ### 1)  District Summary, Result: _Minor Effect_
+ ### District Summary, Result: _Minor Effect_
 
 *   Given that difference between the intial and new dataset was just slighty over 1% (461 students) there was little to no change overall results to the District Summary, as seen in the images below:
 <p align="center">
@@ -88,7 +88,7 @@ Aforementioned, the basis of re-analysis was due to inaccuracies in reported nin
 
 ***
 
-### 2) School Summary,  Result: _Big Effect_
+### School Summary,  Result: _Big Effect_
 
 *   Unlike the results for the District Summary,where data was seen as whole,  when we take a look at Thomas High School on a per school level, the absence of the ninth grade testing scores, were rather noticeable. We see significant jumps in _Math_, _Reading_ and _Overall_ passing percentages, respectively, seeing  about a **30%** boost as as result in calculating this new dataset, as seen in the images below. 
 
@@ -110,7 +110,7 @@ Aforementioned, the basis of re-analysis was due to inaccuracies in reported nin
 
 ***
 
- ### 3) Replacing Ninth-Grade Scores
+ ### Replacing Ninth-Grade Scores
 
 The below showcases the 
 Math and reading scores by grade
