@@ -32,21 +32,12 @@ Upon completion of initial analysis, it was brought to attention that file: stud
   <img src="additional resources/data_combined_in_github.png" />
 </p>
 
-<p align="center">
-  <i><b> Please use site: Project Jupyter: jupyter nbviewer](nbviewer.jupyter.org) as work around. Proceed to add source link to in search field.**
-  </b></i> 
- </p>
    
-
 <p align="center">
-  <i><b>Project Jupyter: nbnbviewer jupyter Homepage</b></i> 
+  <i><b>Project Jupyter: nbnbviewer Homepage</b></i> 
  </p>
-
-
 <p align="center">
-  <img src="additional resources/nbviewer_ jupyter .png"/>
-</p>
-
+  <img src="additional resources/nbviewer_ jupyter _.png" </p>
 
 ## Results
 ### What has been impacted? 
