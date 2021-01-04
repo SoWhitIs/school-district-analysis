@@ -12,14 +12,15 @@ Upon completion of initial analysis, it was brought to attention that file: stud
 ### Resources
 •	Data Source (s): students_complete.csv, schools_complete.csv
 
-•	Software: Python 3.7.6 64-bit, Jupyter Notebook, Anaconda *
+•	Software: Python 3.7.6 64-bit, Pandas, Jupyter Notebook, Anaconda *
 
 •	Data Access: Workaround, [Project Jupyter: jupyter nbviewer](nbviewer.jupyter.org), a Jupytner Notebook renderer **
 
-    * Some DataFrames on _PyCitySchools_Challenge file may not present intact. Specifically, data is not aligned or showcased under its appropriate column in GitHub appearing “jumbled up”. *
+    Some DataFrames on _PyCitySchools_Challenge file may not present intact. Specifically, data is not aligned or showcased under its appropriate column in GitHub appearing “jumbled up”. *
 
 <p align="center">
-  <i><b>GitHub: Jumbled Data</b></i> 
+  <i><b>GitHub: Jumbled Data
+  </b></i> 
  </p>
 
 
@@ -42,24 +43,79 @@ Upon completion of initial analysis, it was brought to attention that file: stud
 ### Results
 #### What has been impacted? 
 
-Aforementioned, the basis of re-analysis was due to inaccuracies in reported ninth grade Math and Reading standardized scores from Thomas High School.  The analysis consisted of the same general calculations, methodology, and overall objectives with additions or edits in code to address the data set change. By replacing this data with NaN attributes, all “usable” data was kept intact given way to the following results:
+Aforementioned, the basis of re-analysis was due to inaccuracies in reported ninth grade Math and Reading standardized scores from Thomas High School.  The analysis consisted of the same general calculations, methodology, and overall objectives with additions or edits in code to address the data set change. By replacing this data with NaN (Not a Number) attributes, all “usable” data was kept intact given way to the following results:
 
-		    Data Background
-    * Initial Analysis Dataset: 39,170 students, 15 Schools (Varied Types: Districts, Charter)
-    *  New Analysis Dataset: 38, 709 Students, 15 Schools (Varied Types: Districts, Charter)
-	    Percentage Change (Difference in Size) of 1.17692111% or 1.2%
+<p align="center">
+  <i><b> ---- Data Background ----</b></i> 
+ </p>
+
+ * Initial Analysis Dataset: 39,170 students, 15 Schools (Varied Types: Districts, Charter)
+ * New Analysis Dataset: 38,709 Students, 15 Schools (Varied Types: Districts, Charter)
+	* Percentage Change (Difference in Size) of 1.17692111% or 1.2%
+
+***
+
+**District Summary**, Result: _Minor Effect_
+
+*   Given that difference between the intial and new dataset was just slighty over 1% (461 students) there was little to no change results to the District Summary, as seen in the images below:
+<p align="center">
+  <i><b>District Summary A: Intial Anaylsis </b></i> 
+ </p>
+
+<p align="center">
+  <img src="additional resources/district_summary_a.png"/>
 
 
-• District Summary
+<p align="center">
+  <i><b>District Summary A: Intial Anaylsis_Unrounded/Formatted</b></i> 
 
+<p align="center">
+  <img src="additional resources/district_summary_a_unrounded.png"/>
+<p align="center">
+  <i><b>District Summary B:  Second Anaylsis </b></i> 
+ </p>
 
+<p align="center">
+  <img src="additional resources/district_summary_b.png"/>
+</p>
 
-School Summary
+***
+
+**School Summary**,  Result: _Big Effect_
+
+*   Unlike the results for the District Summary,where data was seen as whole,  when we take a look at Thomas High School on a per school level, the absence of the ninth grade testing scores, were rather noticeable. We see significant jumps in _Math_, _Reading_ and _Overall_ passing percentages, respectively, seeing  about a **30%** boost as as result in calculating this new dataset, as seen in the images below. 
+
+<p align="center">
+  <i><b>School Summary: Thomas High School</b></i> 
+ </p>
+
+<p align="center">
+  <img src="additional resources/intial_analysis_thomas_high_school_summary_a.png"/>
+</p>
+
+<p align="center">
+  <i><b>School Summary: Thomas High School without Nine Grade Test Scores (Inclusive of 10th-12th Grades,only)</b></i> 
+ </p>
+
+<p align="center">
+  <img src="additional resources/second_analysis_thomas_high_school_summary_b.png"/>
+</p>
 
 
 ### Summary
+By Replacing the scoring data settiith NAN, al "usable" data was kept in tact. More specfically and sucintently nan  in pandas if a float variable  Also this replacement was only done the grades and not s student count, this would had a bigger impact, as the population size would have impacted the percentage averages.  
 
+Not having this information could present two outcomes. Data maynot be properly allocated as we do not how well ninth graders did well on their exam, but given
+population plays a part in the overall outcome
 
+scores for both math and reading went up significantly
+shouldn't effect funding
+Overall outcome was not selected
+
+changed the outcomes of the top and low perfoming school
+
+average of would have put Thomas High School in the lowest peformance category
 ##### Author
 Whitney Gardner
+
 
