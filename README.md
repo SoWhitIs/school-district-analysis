@@ -62,8 +62,7 @@ Aforementioned, the basis of re-analysis was due to inaccuracies in reported nin
 	* Percentage Change (Difference in Size) of 1.17692111% or 1.2%
 *   Schools: 15 (Varied Types: Districts, Charter)
 ***
-
-### 1)  District Summary, Result: _Minor Effect_
+ ### 1)  District Summary, Result: _Minor Effect_
 
 *   Given that difference between the intial and new dataset was just slighty over 1% (461 students) there was little to no change overall results to the District Summary, as seen in the images below:
 <p align="center">
@@ -111,12 +110,14 @@ Aforementioned, the basis of re-analysis was due to inaccuracies in reported nin
 
 ***
 
- ### 3 ) Replacing Ninth-Grade Scores
+ ### 3) Replacing Ninth-Grade Scores
+
 The below showcases the 
 Math and reading scores by grade
 Scores by school spending
 Scores by school size
 Scores by school type
+
 ## Summary
 By Replacing the scoring data settiith NAN, al "usable" data was kept in tact. More specfically and sucintently nan  in pandas if a float variable  Also this replacement was only done the grades and not s student count, this would had a bigger impact, as the population size would have impacted the percentage averages.  
 
