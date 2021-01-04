@@ -1,4 +1,4 @@
-# _What **do** the scores say?_ || PyCity School District Analysis:  
+# _What **do** the scores say?_ || PyCity School District Analysis 
 
 ## Overview of Project
 
@@ -11,36 +11,55 @@ Upon completion of initial analysis, it was brought to attention that file: stud
 
 ### Resources
 •	Data Source (s): students_complete.csv, schools_complete.csv
-•	Software: Python 3.7.6 64-bit, Jupyter Notebook, Anaconda *
-•	Data Access: Workaround, [nbviewer jupyter](nbviewer.jupyter.org)
 
-**Some DataFrames on _PyCitySchools_Challenge. ipynb_ may not present probably. Specifically, data is not aligned or showcased under its appropriate column in GitHub appearing “jumbled up”. 
- insert_image
-•	Please use site: nbviewer.jupyter.org as a work around. Proceed to add source link to in search field.
-insert_image 
-Data Review Issue
-_insert image_
+•	Software: Python 3.7.6 64-bit, Jupyter Notebook, Anaconda *
+
+•	Data Access: Workaround, [Project Jupyter: jupyter nbviewer](nbviewer.jupyter.org), a Jupytner Notebook renderer **
+
+    * Some DataFrames on _PyCitySchools_Challenge file may not present intact. Specifically, data is not aligned or showcased under its appropriate column in GitHub appearing “jumbled up”. *
+
+<p align="center">
+  <i><b>GitHub: Jumbled Data</b></i> 
+ </p>
+
+
+<p align="center">
+  <img src="additional resources/data_combined_in_github.png" />
+</p>
+
+    Please use site: Project Jupyter: jupyter nbviewer](nbviewer.jupyter.org) as work around. Proceed to add source link to in search field.**
+
+<p align="center">
+  <i><b>Project Jupyter: nbnbviewer jupyter Homepage</b></i> 
+ </p>
+
+
+<p align="center">
+  <img src="additional resources/nbviewer_ jupyter .png"/>
+</p>
+
+
 ### Results
 #### What has been impacted? 
+
 Aforementioned, the basis of re-analysis was due to inaccuracies in reported ninth grade Math and Reading standardized scores from Thomas High School.  The analysis consisted of the same general calculations, methodology, and overall objectives with additions or edits in code to address the data set change. By replacing this data with NaN attributes, all “usable” data was kept intact given way to the following results:
-		**Data Background: *
-Initial Analysis Dataset: 39,170 students, 15 Schools (Varied Types: Districts, Charter)
- 		New Analysis Dataset: 38, 709 Students, 15 Schools (Varied Types: Districts, Charter)
-			Percentage Change (Difference) of 1.17692111% or 1.2%
+
+		    Data Background
+    * Initial Analysis Dataset: 39,170 students, 15 Schools (Varied Types: Districts, Charter)
+    *  New Analysis Dataset: 38, 709 Students, 15 Schools (Varied Types: Districts, Charter)
+	    Percentage Change (Difference in Size) of 1.17692111% or 1.2%
 
 
-•	District Summary
+• District Summary
 
 
 
 School Summary
 
-Inserted image of initial analysis,  versus re-do analysis
-#### Notes
-	Due to limitation of the 
 
 ### Summary
 
 
 ##### Author
 Whitney Gardner
+
