@@ -1,4 +1,4 @@
-# _What **do** the scores say?_ || PyCity School District Analysis 
+_What **do** the scores say?_ || PyCity School District Analysis 
 
 ## Overview of Project
 
@@ -88,7 +88,7 @@ Aforementioned, the basis of re-analysis was due to inaccuracies in reported nin
 
 ***
 
-### School Summary,  Result: _Big Effect_
+### School Summary,  Result: _Greater Effect_
 
 *   Unlike the results for the District Summary,where data was seen as whole,  when we take a look at Thomas High School on a per school level, the absence of the ninth grade testing scores, were rather noticeable. We see significant jumps in _Math_, _Reading_ and _Overall_ passing percentages, respectively, seeing  about a **30%** boost as as result in calculating this new dataset, as seen in the images below. 
 
@@ -110,26 +110,14 @@ Aforementioned, the basis of re-analysis was due to inaccuracies in reported nin
 
 ***
 
- ### Replacing Ninth-Grade Scores
+ ### Replacing Ninth-Grade Scores _Affects_
 
-The below showcases the 
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
+It would appear after several "runs" of the code, and comparing replacing the ninth-grade scores NANs presented no extreme bearing in the overall outcomes in comparing date by school size, type, math and reading scores by grade. 
+
+Thomas High School appears still remaining amgonst Top 5 High Performing Schools.
+
 
 ## Summary
-By Replacing the scoring data settiith NAN, al "usable" data was kept in tact. More specfically and sucintently nan  in pandas if a float variable  Also this replacement was only done the grades and not s student count, this would had a bigger impact, as the population size would have impacted the percentage averages.  
+By replacing the scoring data with NaN, all "usable" data was kept in tact, such as school name, type, student name, etc. Nonetheless, allowed for those data to still be consider in the final which lies one reason affect of this method was not greater.
 
-Not having this information could present two outcomes. Data maynot be properly allocated as we do not how well ninth graders did well on their exam, but given
-population plays a part in the overall outcome
-
-scores for both math and reading went up significantly
-shouldn't effect funding
-Overall outcome was not selected
-
-changed the outcomes of the top and low perfoming school
-
-average of would have put Thomas High School in the lowest peformance category
-##### Author
-Whitney Gardner
+However, this method could have yeild false outcomes, especially when having to perform permuatations as getting the averages. . 
