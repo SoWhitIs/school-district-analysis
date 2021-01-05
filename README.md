@@ -114,4 +114,4 @@ By replacing the scoring data with NaN, all "usable" data was kept in tact, such
 
 But, it is possible because of the smaller sample size, ***only*** 1% of the inital total difference would be noticed on a per school breakdown. 
 
-Population size directly effects the out comes of the group as whole. 
+Population size directly effects the outcomes of the group as whole. 
