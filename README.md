@@ -106,7 +106,7 @@ Aforementioned, the basis of re-analysis was due to inaccuracies in reported nin
 
 It would appear after several "runs" of the code, and comparing replacing the ninth-grade scores NANs presented no extreme bearing in the overall outcomes in comparing date by school size, type, math and reading scores by grade. 
 
-Thomas High School appears still remaining amgonst Top 5 High Performing Schools.
+Thomas High School appears to ***still*** remain amgonst Top 5 High Performing Schools.
 
 
 ## Summary
