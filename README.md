@@ -2,12 +2,11 @@
 
 ## Overview of Project
 
-On task with assisting the Chief Data Scientist of the PyCity School District. Analysis consisted of review "clean-up" of standardized test score data from local high schools, by which findings would later give insights as to strategic planning of future budgets 
-and priorities by the school board and superintendent.
+On task with assisting the Chief Data Scientist of the PyCity School District. Analysis consisted of review and "clean-up" of standardized test score data from local high schools, by which findings would later give insights as to strategic planning of future budgets and priorities by the school board and superintendent.
 
 Upon completion of initial analysis, it was brought to attention that file: students_complete.csv, a source for said analysis, containing Math and Reading testing results from Thomas High School ninth graders, respectively, had been altered.
 
- While, the extent of the alteration is unknown, to uphold the state-testing standards the _ "remedy"_ was to re-do the analysis excluding the former Thomas High School ninth grade test results data (subsequently using the _only_ data from tenth to twelfth grade). 
+While, the extent of the alteration is unknown, to uphold the state-testing standards, the _ "remedy"_ was to re-do the analysis excluding the former Thomas High School ninth grade test results data (subsequently using the _only_ data from tenth to twelfth grade). 
 
 ### Resources
 •	Data Source (s): students_complete.csv, schools_complete.csv
@@ -102,9 +101,9 @@ Aforementioned, the basis of re-analysis was due to inaccuracies in reported nin
 
 ***
 
- ### Replacing Ninth-Grade Scores _Effects_
+ ### Replacing Ninth-Grade Scores _Affects_
 
-It would appear after several "runs" of the code and performing in-depth comparisons, replacing the ninth-grade scores NANs presented no extreme bearing in the overall outcomes in comparing date by school size, type, math and reading scores by grade. 
+It would appear after several "runs" of the code, replacing the ninth-grade scores NANs presented no extreme bearing in the overall outcomes after an in-depth and exhaustive comparison date by school size, type, math and reading scores by grade. 
 
 Thomas High School appears to ***still*** remain amgonst the "Top 5 High Performing Schools".
 
@@ -114,7 +113,7 @@ By replacing the scoring data with NaN, all "usable" data was kept in tact, such
 
 But, it is possible because of the smaller sample size, ***only*** 1% of the inital student count, any difference would be noticed on a per school breakdown. 
 
-Population size would directly effect the outcomes of the group as whole. 
+Change in population size would directly effect the outcomes of the group as whole. 
 
  #### Author
  _Whitney D. Gardner_
