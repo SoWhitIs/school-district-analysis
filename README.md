@@ -54,7 +54,7 @@ Aforementioned, the basis of re-analysis was due to inaccuracies in reported nin
 	* Percentage Change (Difference in Size) of 1.17692111% or 1.2%
 *   Schools: 15 (Varied Types: Districts, Charter)
 ***
- ### District Summary, Result: _Minor Affect_
+ ### District Summary, Result: _Minor Effect_
 
 *   Given that difference between the intial and new dataset was just slighty over 1% (461 students) there was little to no change overall results to the District Summary, as seen in the images below:
 <p align="center">
@@ -80,9 +80,9 @@ Aforementioned, the basis of re-analysis was due to inaccuracies in reported nin
 
 ***
 
-### School Summary,  Result: _Greater Affect_
+### School Summary,  Result: _Greater Effect_
 
-*   Unlike the results for the District Summary,where data was seen as whole,  when we take a look at Thomas High School on a per school level, the absence of the ninth grade testing scores, were rather noticeable. We see significant jumps in _Math_, _Reading_ and _Overall_ passing percentages, respectively, seeing  about a **30%** boost as as result in calculating this new dataset, as seen in the images below. 
+*   Unlike the results for the District Summary,where data was seen as whole, when we take a look at Thomas High School on a per school level, the absence of the ninth grade testing scores, were rather noticeable. We see significant jumps in _Math_, _Reading_ and _Overall_ passing percentages, respectively, seeing  about a **30%** boost as as result in calculating this new dataset, as seen in the images below. 
 
 <p align="center">
   <i><b>School Summary: Thomas High School</b></i> 
@@ -104,17 +104,17 @@ Aforementioned, the basis of re-analysis was due to inaccuracies in reported nin
 
  ### Replacing Ninth-Grade Scores _Affects_
 
-It would appear after several "runs" of the code, and comparing replacing the ninth-grade scores NANs presented no extreme bearing in the overall outcomes in comparing date by school size, type, math and reading scores by grade. 
+It would appear after several "runs" of the code and performing in-depth comparisons, replacing the ninth-grade scores NANs presented no extreme bearing in the overall outcomes in comparing date by school size, type, math and reading scores by grade. 
 
-Thomas High School appears to ***still*** remain amgonst Top 5 High Performing Schools.
+Thomas High School appears to ***still*** remain amgonst the "Top 5 High Performing Schools".
 
 
 ## Summary
 By replacing the scoring data with NaN, all "usable" data was kept in tact, such as school name, type, student name, etc. however, this method could net false  positives as the results or effects are not as noticebale. 
 
-But, it is possible because of the smaller sample size, ***only*** 1% of the inital total difference would be noticed on a per school breakdown. 
+But, it is possible because of the smaller sample size, ***only*** 1% of the inital student count, any difference would be noticed on a per school breakdown. 
 
-Population size directly effects the outcomes of the group as whole. 
+Population size would directly effect the outcomes of the group as whole. 
 
  #### Author
  _Whitney D. Gardner_
