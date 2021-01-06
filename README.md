@@ -103,15 +103,15 @@ Aforementioned, the basis of re-analysis was due to inaccuracies in reported nin
 
  ### Replacing Ninth-Grade Scores _Affects_
 
-It would appear after several "runs" of the code, replacing the ninth-grade scores NANs presented no extreme bearing in the overall outcomes after an in-depth and exhaustive comparison date by school size, type, math and reading scores by grade. 
+It would appear after several "runs" of the code, replacing the ninth-grade scores NANs presented no extreme bearing in the overall outcomes after an in-depth and exhaustive comparison by school size, type, math and reading scores by grade. 
 
 Thomas High School appears to ***still*** remain amgonst the "Top 5 High Performing Schools".
 
 
 ## Summary
-By replacing the scoring data with NaN, all "usable" data was kept in tact, such as school name, type, student name, etc. however, this method could net false  positives as the results or effects are not as noticebale. 
+By replacing the scoring data with NaN, all "usable" data was kept in tact, such as school name, type, student name, etc. however, this method could net false positives as the results or effects are may or may not be as noticebale. 
 
-But, it is possible because of the smaller sample size, ***only*** 1% of the inital student count, any difference would be noticed on a per school breakdown. 
+But, it is possible because of the smaller sample size, ***only*** 1% of the inital student count, any difference would be primarily noticed on a per school breakdown. 
 
 Change in population size would directly effect the outcomes of the group as whole. 
 
