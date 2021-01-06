@@ -102,7 +102,7 @@ Aforementioned, the basis of re-analysis was due to inaccuracies in reported nin
 
 ***
 
- ### Replacing Ninth-Grade Scores _Affects_
+ ### Replacing Ninth-Grade Scores _Effects_
 
 It would appear after several "runs" of the code and performing in-depth comparisons, replacing the ninth-grade scores NANs presented no extreme bearing in the overall outcomes in comparing date by school size, type, math and reading scores by grade. 
 
