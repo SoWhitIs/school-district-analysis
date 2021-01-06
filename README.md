@@ -48,10 +48,10 @@ Aforementioned, the basis of re-analysis was due to inaccuracies in reported nin
   <i><b> ---- District Snapshot ----</b></i> 
  </p>
 
- * Initial Analysis Dataset: 39,170 students, 15 Schools (Varied Types: Districts, Charter)
- * New Analysis Dataset: 38,709 Students, 15 Schools (Varied Types: Districts, Charter)
+ * Initial Analysis Dataset: 39,170 students, 15 Schools (Varied Types: District, Charter)
+ * New Analysis Dataset: 38,709 Students, 15 Schools (Varied Types: District, Charter)
 	* Percentage Change (Difference in Size) of 1.17692111% or 1.2%
-*   Schools: 15 (Varied Types: Districts, Charter)
+*   Schools: 15 (Varied Types: District, Charter)
 ***
  ### District Summary, Result: _Minor Effect_
 
