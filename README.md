@@ -114,7 +114,7 @@ By replacing the scoring data with NaN, all "usable" data was kept in tact, such
 
 Given that, it is possible because of the smaller sample size (haven been removed or replaced), ***only*** 1% of the inital student count, any difference would be primarily noticed on a per school breakdown. 
 
-Any in student population size would directly effect the overall passing outcomes of the group as whole. 
+Any change in student population size would directly effect the overall passing outcomes of the group as whole. 
 
  #### Author
  _Whitney D. Gardner_
