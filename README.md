@@ -37,7 +37,10 @@ While, the extent of the alteration is unknown, to uphold the state-testing stan
  </p>
 <p align="center">
   <img src="additional resources/nbviewer_ jupyter.png" </p>
-
+	
+	
+***
+***	
 
 ## Results
 ### What has been impacted? 
