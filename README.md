@@ -13,7 +13,7 @@ While, the extent of the alteration is unknown, to uphold the state-testing stan
 
 •	Software: Python 3.7.6 64-bit | Python Libaries:Pandas, Numpy | Jupyter Notebook | Anaconda*
 
-•	Data Access: Workaround, [Project Jupyter: jupyter nbviewer](nbviewer.jupyter.org), a Jupytner Notebook renderer **
+•	Data Access: Workaround, [Project Jupyter: jupyter nbviewer](https://nbviewer.jupyter.org/), a Jupytner Notebook renderer **
 
 <p align="center">
   <i><b>Some DataFrames on _PyCitySchools_Challenge file may not present intact. Specifically, data is not aligned or showcased under its appropriate column in GitHub appearing “jumbled up”. *
