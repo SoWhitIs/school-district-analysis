@@ -16,7 +16,7 @@ While, the extent of the alteration is unknown, to uphold the state-testing stan
 •	Data Access: Workaround, [Project Jupyter: jupyter nbviewer](https://nbviewer.jupyter.org/), a Jupytner Notebook renderer **
 
 <p align="center">
-  <i><b>Some DataFrames on _PyCitySchools_Challenge file may not present intact. Specifically, data is not aligned or showcased under its appropriate column in GitHub appearing “jumbled up”. *
+  <i><b>Some DataFrames on _PyCitySchools_Challenge file may not present intact. Specifically, data is not aligned or showcased under its appropriate column in GitHub appearing “jumbled up”. **
   </b></i> 
  </p>
 
