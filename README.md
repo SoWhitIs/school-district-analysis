@@ -9,11 +9,12 @@ Upon completion of initial analysis, it was brought to attention that file: stud
 While, the extent of the alteration is unknown, to uphold the state-testing standards, the _ "remedy"_ was to re-do the analysis excluding the former Thomas High School ninth grade test results data (subsequently using the _only_ data from tenth to twelfth grade). 
 
 ## Resources
-•	Data Source (s): students_complete.csv, schools_complete.csv
 
-•	Software: Python 3.7.6 64-bit | Python Libaries:Pandas, Numpy | Jupyter Notebook | Anaconda*
+• Data Source (s): students_complete.csv, schools_complete.csv
 
-•	Data Access: Workaround, [Project Jupyter: jupyter nbviewer](https://nbviewer.jupyter.org/), a Jupytner Notebook renderer **
+• Software: Python 3.7.6 64-bit | Python Libaries:Pandas, Numpy | Jupyter Notebook** | Anaconda
+	• Data Access: Workaround, [Project Jupyter: jupyter nbviewer](https://nbviewer.jupyter.org/), a Jupytner Notebook renderer **
+
 
 <p align="center">
   <i><b>Some DataFrames on _PyCitySchools_Challenge file may not present intact. Specifically, data is not aligned or showcased under its appropriate column in GitHub appearing “jumbled up”. **
