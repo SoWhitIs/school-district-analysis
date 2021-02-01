@@ -10,11 +10,14 @@ While, the extent of the alteration is unknown, to uphold the state-testing stan
 
 ## Resources
 
-• Data Source (s): students_complete.csv, schools_complete.csv
+* Data Source (s): students_complete.csv, schools_complete.csv
 
-• Software: Python 3.7.6 64-bit | Python Libaries:Pandas, Numpy | Jupyter Notebook** | Anaconda
+* Software: Python 3.7.6 64-bit | Python Libaries:Pandas, Numpy | Jupyter Notebook** | Anaconda
+	
+	* Data Access: Workaround, [Project Jupyter: jupyter nbviewer](https://nbviewer.jupyter.org/), a Jupytner Notebook renderer **
 
-*	* Data Access: Workaround, [Project Jupyter: jupyter nbviewer](https://nbviewer.jupyter.org/), a Jupytner Notebook renderer **
+
+
 
 
 <p align="center">
