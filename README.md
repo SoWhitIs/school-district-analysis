@@ -15,15 +15,8 @@ While, the extent of the alteration is unknown, to uphold the state-testing stan
 * Software: Python 3.7.6 64-bit | Python Libaries:Pandas, Numpy | Jupyter Notebook** | Anaconda
 	
 	* Data Access: Workaround, [Project Jupyter: jupyter nbviewer](https://nbviewer.jupyter.org/), a Jupytner Notebook renderer **
+		* Some DataFrames on PyCitySchools_Challenge file may not present intact. Specifically, data is not aligned or showcased under its appropriate column in GitHub appearing “jumbled up”. Please, use provided workaround.
 
-
-
-
-
-<p align="center">
-  <i><b>Some DataFrames on _PyCitySchools_Challenge file may not present intact. Specifically, data is not aligned or showcased under its appropriate column in GitHub appearing “jumbled up”. **
-  </b></i> 
- </p>
 
 
 <p align="center">
