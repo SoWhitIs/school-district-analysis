@@ -117,5 +117,6 @@ Given that, it is possible because of the smaller sample size (haven been remove
 
 Any change in student population size would directly effect the overall passing outcomes of the group as whole. 
 
+---
  #### Author
  _Whitney D. Gardner_
